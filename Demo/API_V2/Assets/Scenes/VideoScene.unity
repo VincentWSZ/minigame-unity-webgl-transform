@@ -1531,7 +1531,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 811883140}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 97f8db200f07583419e353541eb664cf, type: 3}
+  m_Script: {fileID: 11500000, guid: 6ea272765636a6f498896b50f6afbf30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   m_player: {fileID: 2114722372}
@@ -2189,7 +2189,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1159140099}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d6643d012c4923944accb7c4c05a0f14, type: 3}
+  m_Script: {fileID: 11500000, guid: 4983ad4d6fadb384a93db44f38764893, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   videoPlayer: {fileID: 2114722372}
@@ -3102,7 +3102,7 @@ VideoPlayer:
   - {fileID: 0}
   m_DirectAudioVolumes:
   - 1
-  m_Url: http://wxsnsdy.tc.qq.com/105/20210/snsdyvideodownload?filekey=30280201010421301f0201690402534804102ca905ce620b1241b726bc41dcff44e00204012882540400&bizid=1023&hy=SH&fileparam=302c020101042530230204136ffd93020457e3c4ff02024ef202031e8d7f02030f42400204045a320a0201000400
+  m_Url: https://baikebcs.bdimg.com/baike-other/big-buck-bunny.mp4
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
   m_ControlledAudioTrackCount: 1
@@ -3618,7 +3618,7 @@ VideoPlayer:
   - {fileID: 0}
   m_DirectAudioVolumes:
   - 1
-  m_Url: http://wxsnsdy.tc.qq.com/105/20210/snsdyvideodownload?filekey=30280201010421301f0201690402534804102ca905ce620b1241b726bc41dcff44e00204012882540400&bizid=1023&hy=SH&fileparam=302c020101042530230204136ffd93020457e3c4ff02024ef202031e8d7f02030f42400204045a320a0201000400
+  m_Url: https://baikebcs.bdimg.com/baike-other/big-buck-bunny.mp4
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
   m_ControlledAudioTrackCount: 1
